@@ -1,2 +1,2 @@
 # spesial
-https://hafisz.github.io/special_for_you/
+https://hafisz.github.io/special/
